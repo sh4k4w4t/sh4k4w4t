@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Happy To Know That You Just Visited My Github Profile
 
+- 🔭 I’m currently working on Mobile Application Development
+
 <!--
 **sh4k4w4t/sh4k4w4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
