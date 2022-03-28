@@ -8,7 +8,7 @@
 - 💬 Ask me about ... Mobile Application Developer
 - 😄 Pronouns: ...Shakawat Hossain
 - 📫 How to reach me: ... 
-  Email: md.shakawat.hossain@yandex.com /n
+  Email: md.shakawat.hossain@yandex.com <br>
   Twitter: twitter.com/sh4k4w4t \n
   Linkedin : linkedin.com/in/sh4k4w4t
 
