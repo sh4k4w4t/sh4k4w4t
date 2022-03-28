@@ -7,10 +7,8 @@
 - 🤔 I’m looking for help with ... Android Related Works
 - 💬 Ask me about ... Mobile Application Developer
 - 😄 Pronouns: ...Shakawat Hossain
-- 📫 How to reach me: ... 
-  Email: md.shakawat.hossain@yandex.com <br>
-  Twitter: twitter.com/sh4k4w4t \n
-  Linkedin : linkedin.com/in/sh4k4w4t
+- 📫 How to reach me: ...<br>
+  Email: md.shakawat.hossain@yandex.com <br>Twitter: twitter.com/sh4k4w4t <br>Linkedin : linkedin.com/in/sh4k4w4t
 
 
 <!--
