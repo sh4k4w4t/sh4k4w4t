@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... For My Next Project I'm learning Data Science & ML
 - 👯 I’m looking to collaborate on ...Projects
 - 🤔 I’m looking for help with ... Android Related Works
-- 💬 Ask me about ... Mobile Application Developer
+- 💬 Ask me about ... Mobile Application Dev
 - 😄 Pronouns: ...Shakawat Hossain
 - 📫 How to reach me: ...<br>
   Email: md.shakawat.hossain@yandex.com <br>Linkedin : https://www.linkedin.com/in/sh4k4w4t
