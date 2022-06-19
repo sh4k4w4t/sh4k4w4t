@@ -2,7 +2,7 @@
 ### I'm Happy To Know That You Just Visited My Github Profile
 
 - 🔭 I’m currently working ... Mobile Application Development With Java
-- 🌱 I’m currently learning ... JavaScript & Python For My Next Project
+- 🌱 I’m currently learning ... For My Next Project I'm learning Data Science & ML
 - 👯 I’m looking to collaborate on ...Projects
 - 🤔 I’m looking for help with ... Android Related Works
 - 💬 Ask me about ... Mobile Application Developer
